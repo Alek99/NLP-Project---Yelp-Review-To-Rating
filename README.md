@@ -14,5 +14,5 @@ Instructions
   
   ## Write Up
   
-  ![alt text](https://github.com/Alek99/NLP-Project---Yelp-Review-To-Rating/blob/main/writeup.pdf)
+https://github.com/Alek99/NLP-Project---Yelp-Review-To-Rating/blob/main/writeup.pdf
       
