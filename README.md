@@ -1,4 +1,4 @@
-# yelp-rating-predictor
+# Yelp-Rating-Predictor
 A yelp rating predictor built using NLP models to predict the star rating of a written review.
 
 Instructions
@@ -11,4 +11,8 @@ Instructions
       
 - Output predictions will be in output.jsonl 
   Please remember to rename before testing to another dataset otherwise predictions will be overwritten.
+  
+  ## Write Up
+  
+  ![alt text](https://github.com/Alek99/NLP-Project---Yelp-Review-To-Rating/blob/main/writeup.pdf)
       
